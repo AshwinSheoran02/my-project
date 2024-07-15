@@ -1,0 +1,25 @@
+
+
+               AAA                             hhhhhhh                                                    iiii
+              A:::A                            h:::::h                                                   i::::i
+             A:::::A                           h:::::h                                                    iiii
+            A:::::::A                          h:::::h
+           A:::::::::A             ssssssssss   h::::h hhhhh   wwwwwww           wwwww           wwwwwwwiiiiiiinnnn  nnnnnnnn
+          A:::::A:::::A          ss::::::::::s  h::::hh:::::hhh w:::::w         w:::::w         w:::::w i:::::in:::nn::::::::nn
+         A:::::A A:::::A       ss:::::::::::::s h::::::::::::::hhw:::::w       w:::::::w       w:::::w   i::::in::::::::::::::nn
+        A:::::A   A:::::A      s::::::ssss:::::sh:::::::hhh::::::hw:::::w     w:::::::::w     w:::::w    i::::inn:::::::::::::::n
+       A:::::A     A:::::A      s:::::s  ssssss h::::::h   h::::::hw:::::w   w:::::w:::::w   w:::::w     i::::i  n:::::nnnn:::::n
+      A:::::AAAAAAAAA:::::A       s::::::s      h:::::h     h:::::h w:::::w w:::::w w:::::w w:::::w      i::::i  n::::n    n::::n
+     A:::::::::::::::::::::A         s::::::s   h:::::h     h:::::h  w:::::w:::::w   w:::::w:::::w       i::::i  n::::n    n::::n
+    A:::::AAAAAAAAAAAAA:::::A  ssssss   s:::::s h:::::h     h:::::h   w:::::::::w     w:::::::::w        i::::i  n::::n    n::::n
+   A:::::A             A:::::A s:::::ssss::::::sh:::::h     h:::::h    w:::::::w       w:::::::w        i::::::i n::::n    n::::n
+  A:::::A               A:::::As::::::::::::::s h:::::h     h:::::h     w:::::w         w:::::w         i::::::i n::::n    n::::n
+ A:::::A                 A:::::As:::::::::::ss  h:::::h     h:::::h      w:::w           w:::w          i::::::i n::::n    n::::n
+AAAAAAA                   AAAAAAAsssssssssss    hhhhhhh     hhhhhhh       www             www           iiiiiiii nnnnnn    nnnnnn
+
+:: Spring Boot version ${spring-boot.version} ::
+
+
+
+
+
